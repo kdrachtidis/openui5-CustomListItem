@@ -1,5 +1,4 @@
 sap.ui.define([
-    'DemoUXapp/controller/BaseController',
     'sap/ui/core/mvc/Controller'
 ], function (Controller) {
     "use strict";
