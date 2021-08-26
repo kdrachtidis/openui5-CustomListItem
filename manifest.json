@@ -84,6 +84,11 @@
                     "pattern": "FixedPage2",
                     "name": "FixedPage2",
                     "target": "FixedPage2"
+                },
+                {
+                  "pattern": "employee/{employeeId}",
+                  "name": "employee",
+                  "target": "employee"
                 }
             ],
             "targets": {
@@ -107,6 +112,9 @@
                 },
                 "FixedPage2": {
                     "viewName": "FixedNavigation.FixedPage2"
+                },
+                "employee": {
+                    "viewName": "MainNavigation.Secondary.EmployeeDetails"
                 }
             }
         }
