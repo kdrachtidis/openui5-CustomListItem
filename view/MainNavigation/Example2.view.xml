@@ -1,0 +1,7 @@
+<mvc:View controllerName="DemoUXapp.controller.MainNavigation.Example2" height="100%" 
+  xmlns:mvc="sap.ui.core.mvc" 
+  xmlns="sap.m">
+  <Page title="Example 2">
+    <content></content>
+  </Page>
+</mvc:View>
