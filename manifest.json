@@ -114,7 +114,7 @@
                     "viewName": "FixedNavigation.FixedPage2"
                 },
                 "employee": {
-                    "viewName": "MainNavigation.Secondary.EmployeeDetails"
+                    "viewName": "MainNavigation.EmployeeDetails"
                 }
             }
         }

@@ -4,7 +4,7 @@ sap.ui.define([
 ], function (Controller, History) {
 	"use strict";
 
-	return Controller.extend("UI5FioriForTools.controller.BaseController", {
+	return Controller.extend("DemoUXapp.controller.BaseController", {
 
 		/**
 		 * Convenience method for accessing the router.
