@@ -11,7 +11,7 @@
   async="true">
 
   <Page class="sapUiContentPadding"
-    title="Home">
+    title="mList under f.Card">
     <content>
 
       <f:Card class="sapUiSmallMargin bpmShadow sapFCardContent"

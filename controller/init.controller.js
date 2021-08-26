@@ -7,25 +7,20 @@ sap.ui.define([
     model: new sap.ui.model.json.JSONModel(),
     data: {
       navigation: [{
-        title: 'Home',
+        title: 'f.Card',
         icon: 'sap-icon://home',
         key: 'MainPage'
       }, {
-        title: 'Example 1',
+        title: 'f.GridList',
         icon: 'sap-icon://grid',
-        key: 'example1',
         expanded: true,
         items: [{
-            title: 'Example 2',
-            key: 'example2'
-          }, {
-            title: 'Example 3',
-            key: 'example3'
-          }]
-      }, {
-        title: 'Example 4',
-        icon: 'sap-icon://grid',
-        key: 'example4'
+          title: 'Under m.Page',
+          key: 'example2'
+        }, {
+          title: 'Under m.Panel',
+          key: 'example3'
+        }]
       }], fixedNavigation: [{
         title: 'Utility item',
         icon: 'sap-icon://grid',
